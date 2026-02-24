@@ -1,4 +1,4 @@
-# Medical-insurance-premium-analysis
+# medical-insurance-premium-analysis
 Medical Insurance Premium Analysis & Prediction using Python
 Project Overview
 This project analyzes factors affecting medical insurance premiums and builds a predictive model to estimate annual premium costs.
